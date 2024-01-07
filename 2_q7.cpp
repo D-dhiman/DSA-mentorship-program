@@ -13,5 +13,5 @@ int main(){
     int t;
     cout<<"enter the number of rows :";
     cin>>t;
-    pattern3(t);
+    pattern7(t);
 }
